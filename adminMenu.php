@@ -24,7 +24,7 @@ if(!$_SESSION['id'] || ($_SESSION['id'] && $_SESSION['is_admin']==0)){
     <!--  -->
 
     <link rel="stylesheet" href="adminMenuStyle.css">
-
+    
 </head>
 
 <body>
@@ -66,7 +66,7 @@ if(!$_SESSION['id'] || ($_SESSION['id'] && $_SESSION['is_admin']==0)){
         </div>
     </nav>
     <!-- navbar -->
-
+                <!-- test for git -->
 
     <div class="wrapper">
         <div class="container">
